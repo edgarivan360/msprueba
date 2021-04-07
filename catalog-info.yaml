@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "msprueba"
+  description: "Test microservice"
+  annotations:
+    github.com/project-slug: edgarivan360/msprueba
+    backstage.io/techdocs-ref: url:https://github.com/edgarivan360/msprueba
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "edgarivan360"

@@ -1,0 +1,8 @@
+site_name: "msprueba"
+site_description: "Test microservice"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
